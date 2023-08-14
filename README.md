@@ -11,7 +11,7 @@
 * 🧠 I'm learning TensorFlow, Sci-Kit Learn, PyTorch.
 * 🤝 I'm open to collaborating on interesting projects.
 * ⚡ I am secretly working with Stark Industries (Tony Stark Legacy).
-
+* ✨ Learning Open Source Contribution
 
 
 
