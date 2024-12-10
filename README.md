@@ -3,12 +3,11 @@
 
 ### Full-stack developer
 
-👨‍💻 Full-stack coder with a dash of machine learning 🤖 Let's shape tomorrow's tech! #CodingMagic
+👨‍💻🤖 Let's shape tomorrow's tech! #CodingMagic
 
 * 🌍 I'm based in India
 * 🖥️ See my portfolio at [My Portfolio](http://hemantportfolio1.netlify.app)
 * ✉️ You can contact me at [hemantjoshi2320@gmail.com](mailto:hemantjoshi2320@gmail.com)
-* 🧠 I'm learning TensorFlow, Sci-Kit Learn, PyTorch.
 * 🤝 I'm open to collaborating on interesting projects.
 * ⚡ I am secretly working with Stark Industries (Tony Stark Legacy).
 * ✨ Learning Open Source Contribution
